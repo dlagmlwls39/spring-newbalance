@@ -84,8 +84,6 @@ h1{
 </head>
 <body>
 
-<!-- 상품코드를 파라미터로 받아서 상품명, 이미지 가져오기 -->
-
 <div class="expand_view">
    <h1>${ pdDto.pdName }</h1>
    <div class="select_img">

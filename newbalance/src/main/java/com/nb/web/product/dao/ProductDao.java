@@ -1,12 +1,8 @@
 package com.nb.web.product.dao;
 
-import java.sql.Array;
 import java.sql.SQLException;
 import java.util.ArrayList;
-import java.util.LinkedHashMap;
 
-import com.nb.web.product.dto.BuyProductDTO;
-import com.nb.web.product.dto.ProductAjaxDTO;
 import com.nb.web.product.dto.ProductColorDTO;
 import com.nb.web.product.dto.ProductDTO;
 import com.nb.web.product.dto.ProductImageDTO;
@@ -15,7 +11,6 @@ import com.nb.web.product.dto.ProductSizeDTO;
 import com.nb.web.product.dto.RestockAlarmDTO;
 import com.nb.web.product.dto.ReviewDTO;
 import com.nb.web.product.dto.ReviewImgDTO;
-import com.nb.web.product.dto.WishlistDTO;
 
 
 public interface ProductDao {
@@ -56,8 +51,4 @@ public interface ProductDao {
 	// 재입고알림 상품 추가
 	int applyAlarm(RestockAlarmDTO dto) throws SQLException;
 	
-	// 상품문의 등록
-	//int addProductQna(ProductQnaDTO dto) throws SQLException;
-
-	//ProductAjaxDTO selectProductAjax(String pdCode) throws SQLException;
 }

@@ -128,15 +128,28 @@ public class ProductController {
 		
 	}
 
+	// 카드혜택 팝업창
+	@RequestMapping("benefitCardPop.action")
+	public String benefitCardPop() throws Exception {
+		return "/WEB-INF/views/product/benefitCardPop.jsp";
+	}
+	
+	// 성인 의류 사이즈
+	@RequestMapping("clothesSize.action")
+	public String clothesSize() throws Exception {
+		return "/WEB-INF/views/product/clothesSize.jsp";
+	}
+	
+	// 성인 신발 사이즈
+	@RequestMapping("shoesPop.action")
+	public String shoesPop() throws Exception {
+		return "/WEB-INF/views/product/shoesPop.jsp";
+	}
+	
+	// 성인 발볼 넓이
+	@RequestMapping("widthGuidePop.action")
+	public String widthGuidePop() throws Exception {
+		return "/WEB-INF/views/product/widthGuidePop.jsp";
+	}
 
-	// 관심상품 담기
-	
-	
-	
-	// 장바구니 담기
-	
-	
-	
-	// 문의 등록
-	
 }
