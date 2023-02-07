@@ -7,7 +7,7 @@
 <table>
 <tr align="center">
 <td>주제</td>
-<td>JSP/Servlet 기반으로 구현한 'Newbalance(뉴발란스)' 프로젝트를 Spring/Mybatis 프레임워크 기반으로 변환</td>
+<td>JSP/Servlet 기반으로 구현한 'Newbalance(뉴발란스)' 프로젝트를<br>Spring/Mybatis 프레임워크 기반으로 변환</td>
 </tr>
 <tr align="center">
 <td>기간</td>
