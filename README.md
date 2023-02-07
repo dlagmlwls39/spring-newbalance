@@ -23,7 +23,7 @@
 </tr>
 <tr align="center">
 <td>JSP 프로젝트</td>
-<td>https://github.com/group1-newbalance</td>
+<td>[https://github.com/group1-newbalance](https://github.com/group1-newbalance/NB-CloneProject)</td>
 </tr>
 </table>
 
