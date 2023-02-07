@@ -15,7 +15,7 @@
 </tr>
 <tr align="center">
 <td>개발 환경</td>
-<td>Spring, Mybatis, Tomcat 8.5, Java(jdk 1.8), Oracle 11g, HTML5, CSS3, Javascript, jQuery, EL/JSTL, Ajax, <br>draw.io, eXERD, SQL Developer, Eclipse, STS</td>
+<td>Spring, Mybatis, Tomcat 8.5, Java(jdk 1.8), Oracle 11g, HTML5, CSS3, Javascript, jQuery, EL/JSTL, Ajax, draw.io, eXERD, SQL Developer, Eclipse, STS</td>
 </tr>
 <tr align="center">
 <td>개발 인원</td>
