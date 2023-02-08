@@ -15,7 +15,7 @@
 </tr>
 <tr align="center">
 <td>개발 환경</td>
-<td>Spring, Mybatis, Tomcat 8.5, Java(jdk 1.8), Oracle 11g, HTML5, CSS3, Javascript, jQuery, <br>EL/JSTL, Ajax, draw.io, eXERD, SQL Developer, Eclipse, STS</td>
+<td>Spring, Mybatis, Tomcat 8.5, Java(jdk 1.8), Oracle 11g, HTML5, CSS3, Javascript, jQuery, <br>EL/JSTL, Ajax, SQL Developer, STS</td>
 </tr>
 <tr align="center">
 <td>개발 인원</td>
@@ -32,3 +32,15 @@
 
 ## :computer: 구현 기능
 
+* 상품 상세 페이지
+  * 상품 정보 조회(기본 및 상세 정보, 이미지, 카테고리별 사이즈 참고표 등)
+  * 연관 상품
+  * 옵션 추가
+  * 관심상품 등록
+  * 장바구니 추가
+  * 재입고 알림 신청
+  * 구매하기
+  * 상품별 리뷰 조회
+  * 상품별 문의 조회/등록
+ 
+<br>
